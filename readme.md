@@ -25,12 +25,12 @@ This project focuses on analyzing salaries and various other in-game metrics of 
 
 The repository directory structure is as follows:
 
-Basketball-Players-Analysis
-├─ 01_ETL
-├─ 02_DATA
-├─ 03_ANALYSIS
-├─ 04_DASHBOARD
-├─ 05_RESOURCES
+Basketball-Players-Analysis<br>
+├─ 01_ETL<br>
+├─ 02_DATA<br>
+├─ 03_ANALYSIS<br>
+├─ 04_DASHBOARD<br>
+├─ 05_RESOURCES<br>
 
 The type of content present in the directories is as follows:
 
